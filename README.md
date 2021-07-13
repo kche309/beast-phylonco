@@ -12,14 +12,9 @@ Please go to [bioDS/beast-phylonco](https://github.com/bioDS/beast-phylonco) for
 
 ## Software requirements
 
-This package requires Java 16, you can use any OpenJDK 16 versions, such as
-* [AdoptOpenJDK](https://adoptopenjdk.net/?variant=openjdk16)
-* [OpenJDK](https://openjdk.java.net/install/index.html)
-
-This package requires at least
-* [BEAST 2](https://github.com/CompEvol/beast2) v2.6.5 
-* [BEAST Labs](https://github.com/BEAST2-Dev/BEASTLabs) v1.9.0
-* [LPhyBeast](https://github.com/LinguaPhylo/LPhyBeast) v0.0.5
+This package requires Java 8 and the following 
+* [BEAST 2](https://github.com/CompEvol/beast2) v2.6.5 or greater
+* [BEAST Labs](https://github.com/BEAST2-Dev/BEASTLabs) v1.9.0 or greater
 
 ## Features
 
